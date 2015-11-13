@@ -7,7 +7,7 @@ journee START'UP for KIDS!
 Vous connaissez surement le jeux FLAPPY BIRD ?!
 	(Si vous ne savez pas https://fr.wikipedia.org/wiki/Flappy_Bird)
 C'est ce que nous allons coder aujourd'hui dans un language
-de programmation... Le LUA :D
+de programmation... Le lua :D
 
 Pour ce faire, vous allez devoir coder:
 
